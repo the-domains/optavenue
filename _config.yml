@@ -1,0 +1,28 @@
+name: OPTavenue
+favicon: null
+layout_spectrum: 0.13156143529340625
+typography_spectrum: 0.178868472808972
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9455659918021411
+  lightness: 0.4354281381238252
+  saturation: 0.9693694536108524
+  rhythmicContrast: 0.6869288554880768
+purpose: []
